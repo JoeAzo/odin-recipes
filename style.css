@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(32, 29, 29);
+    color: #fff;
+    font-family: "Tahoma", Verdana, san-serif;
+}
+
+.homepage-title {
+    text-align: center;
+    font-size: 48px;
+}
+
+a {
+    color: rgb(219, 203, 59);
+}
