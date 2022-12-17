@@ -12,3 +12,7 @@ body {
 a {
     color: rgb(219, 203, 59);
 }
+
+.ingredients {
+    font-family: 'Courier New', Courier, monospace;
+}
